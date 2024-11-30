@@ -1,0 +1,37 @@
+Descripción del Curso de Git
+
+El curso de Git impartido por el ingeniero Carlos Daniel Paco Quispe fue una experiencia
+excelente. Se abordaron temas fundamentales y avanzados que resultaron de gran utilidad
+para gestionar proyectos de manera eficiente. Los conceptos principales fueron:
+
+Gestión de Logs y Cambios:
+
+Visualización detallada y resumida de historiales con git log 
+(opciones como --stat, --oneline, --graph).
+Identificación de cambios específicos con git show <hash> y git diff (incluyendo staged).
+Restauración de Cambios:
+
+Revertir modificaciones no confirmadas con git checkout y git restore.
+Recuperar estados específicos de archivos o commits con git checkout <hash> o 
+git restore --source.
+Uso del .gitignore:
+
+Exclusión de archivos o directorios del seguimiento de Git mediante git rm --cached.
+Manejo de Repositorios Remotos:
+
+Configuración y gestión de repositorios en la nube (git remote, git push, git 
+remote set-url).
+Generación y uso de tokens para autenticación en GitHub.
+Rebase y Cherry-Pick:
+
+Reorganización de commits recientes con git rebase -i.
+Incorporación de commits específicos entre ramas usando git cherry-pick.
+Stash:
+
+Almacenamiento temporal de cambios no confirmados y recuperación con git stash.
+Subida de Ramas a GitHub:
+
+Proceso de autenticación y configuración de remotos para subir ramas.
+El aprendizaje incluyó tanto comandos básicos como técnicas avanzadas,
+ permitiéndonos comprender y dominar Git como una herramienta esencial para el 
+ esarrollo de software.
