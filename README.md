@@ -11,6 +11,7 @@ este es un repositorio de ejemplo para mostrar el trabajo colaborativo y remoto
 
 ## COLLABORATORS
 * Jesus Gabriel Zeballos Baldiviezo - [MyGitHub](https://github.com/llJandGll)
+* Ramiro Ernesto Velasco Chambi - [MyGitHub](https://github.com/ramivel)
 
 
 ## variables de entorno
