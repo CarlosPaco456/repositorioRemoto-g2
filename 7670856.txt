@@ -1,1 +1,2 @@
 En este curso aprendí a manejar ramas, configurar Git y realizar commits.
+Editar cualquier archivo y hacer un commit del paso 6
