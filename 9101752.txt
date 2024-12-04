@@ -1,0 +1,6 @@
+Nombre: Santiago Quispe Apaza
+CI: 9101752 QR
+
+Curso Pactico Git desde cero en su versión 1.
+
+Saludos...
