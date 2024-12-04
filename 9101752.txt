@@ -4,3 +4,5 @@ CI: 9101752 QR
 Curso Pactico Git desde cero en su versión 1.
 
 Saludos...
+
+Ultima modificaion para el punto 14.
